@@ -4,15 +4,9 @@
 
 Me chamo Geovana Domingos, tenho 21 anos e sou natural de Jacareí, São Paulo. Concluí o ensino médio e técnico em Instrumentação Industrial no SESI/SENAI e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou em constante evolução na área de tecnologia, aprendendo e praticando ferramentas como GitHub, Python e Power BI, além de possuir conhecimentos intermediários em Excel. Também tenho nível de inglês B2, o que me permite compreender e me comunicar bem em contextos profissionais. Sou dedicada ao aprendizado contínuo e busco aplicar meus conhecimentos para desenvolver soluções eficientes e inovadoras.
         />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/domingosgeo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/domingosgeoh?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -32,14 +26,6 @@ Me chamo Geovana Domingos, tenho 21 anos e sou natural de Jacareí, São Paulo. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
